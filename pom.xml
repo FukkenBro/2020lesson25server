@@ -52,6 +52,15 @@
             <version>1.4.200</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.graalvm.compiler/compiler -->
+        <dependency>
+            <groupId>org.graalvm.compiler</groupId>
+            <artifactId>compiler</artifactId>
+            <version>20.0.0</version>
+        </dependency>
+
+
+
     </dependencies>
 
     <build>
